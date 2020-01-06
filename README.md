@@ -9,3 +9,9 @@ Than open config.json and change BOT_TOKEN on your bot's token, SERVER_ID to you
 message sending interval (e.g if you are write 10 interval will be 0.1-10sec.)
 
 Thanks for using this bot!
+
+Warning! The bot is translated in Russian on 5%! 
+
+Syntax:
+cat#dmall - DM All guild members
+cat#dmrole @role - DM Guild role
