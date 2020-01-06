@@ -1,0 +1,6 @@
+{
+  "token": "BOT_TOKEN",
+  "prefix": "cat#",
+  "id": "SERVER_ID",
+  "wait": "MAX_MESSAGE_INTERVAL"
+}
